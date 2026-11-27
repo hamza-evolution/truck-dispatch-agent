@@ -1,0 +1,16 @@
+<svg viewBox="0 0 880 220" width="100%" xmlns="http://w3.org">
+      <rect width="880" height="220" rx="12" fill="#040904" stroke="#4ADE80" stroke-width="2.5"/>
+      <line x1="0" y1="0" x2="880" y2="0" stroke="#F97316" stroke-width="3">
+        <animate attributeName="y1" values="0;220;0" dur="2.5s" repeatCount="indefinite"/>
+        <animate attributeName="y2" values="0;220;0" dur="2.5s" repeatCount="indefinite"/>
+      </line>
+      <circle cx="770" cy="110" r="65" fill="none" stroke="#4ADE80" stroke-dasharray="10 6" stroke-width="2.5">
+        <animateTransform attributeName="transform" type="rotate" from="0 770 110" to="360 770 110" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="40" y="55" fill="#F97316" font-family="monospace" font-size="14">[MATRIX KERNEL NODE // THEME #14]</text>
+      <text x="40" y="112" fill="#4ADE80" font-family="monospace" font-weight="bold" font-size="34">TRUCK-DISPATCH-AGENT</text>
+      <text x="40" y="155" fill="#E2E8F0" font-family="monospace" font-size="15">STACK: PYTHON  |  ARCHITECT: HAMZA-EVOLUTION</text>
+      <rect x="40" y="178" width="460" height="8" rx="4" fill="#F97316">
+        <animate attributeName="width" values="40;460;180;460" dur="2.1s" repeatCount="indefinite"/>
+      </rect>
+    </svg>
